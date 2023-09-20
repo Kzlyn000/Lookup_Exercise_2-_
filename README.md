@@ -1,3 +1,3 @@
 # Lookup_Exercise_2-_
-Exercise 2
+Practice exercise of look up function
  
